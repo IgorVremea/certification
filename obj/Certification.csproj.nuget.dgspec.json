@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\IntroductionInProgLang\\Certification\\Certification.csproj": {}
+    "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\Introduction in program languages\\Certification\\Certification.csproj": {}
   },
   "projects": {
-    "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\IntroductionInProgLang\\Certification\\Certification.csproj": {
+    "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\Introduction in program languages\\Certification\\Certification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\IntroductionInProgLang\\Certification\\Certification.csproj",
+        "projectUniqueName": "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\Introduction in program languages\\Certification\\Certification.csproj",
         "projectName": "Certification",
-        "projectPath": "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\IntroductionInProgLang\\Certification\\Certification.csproj",
+        "projectPath": "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\Introduction in program languages\\Certification\\Certification.csproj",
         "packagesPath": "C:\\Users\\igori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\IntroductionInProgLang\\Certification\\obj\\",
+        "outputPath": "C:\\Users\\igori\\Desktop\\Programming\\GeekBrains\\Introduction in program languages\\Certification\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igori\\AppData\\Roaming\\NuGet\\NuGet.Config"
